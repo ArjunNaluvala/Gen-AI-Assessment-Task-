@@ -1,0 +1,30 @@
+Role: Data Scientist
+
+We are hiring a Data Scientist who has a strong foundation in data analysis and basic machine learning techniques, with the ability to derive meaningful insights from data.
+
+Required Skills:
+
+Proficiency in Python
+Good understanding of SQL
+Strong data analysis skills
+Basic knowledge of machine learning concepts
+Ability to create effective data visualizations
+
+Preferred Skills:
+
+Experience with Pandas and NumPy
+Knowledge of NLP (Natural Language Processing)
+Familiarity with ML libraries such as Scikit-learn
+Exposure to cloud platforms like AWS
+Around 2+ years of experience in data analytics or a related field
+
+Responsibilities:
+
+Analyze datasets to extract useful insights
+Design dashboards and visualize data clearly
+Develop and evaluate machine learning models
+Handle both structured and unstructured data
+
+Education:
+
+Bachelor’s degree in Computer Science, Data Science, or a related field (preferred)
