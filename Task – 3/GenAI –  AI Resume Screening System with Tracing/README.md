@@ -50,12 +50,12 @@ Resume → Skill Extraction → Matching → Scoring → Explanation
 
 ##  Features
 
-✔ Skill Extraction (Skills, Tools, Experience)  
-✔ Resume vs Job Matching  
-✔ Candidate Scoring (0–100)  
-✔ Explainable AI Output  
-✔ Modular LangChain Pipeline  
-✔ LangSmith Tracing  
+- Skill Extraction (Skills, Tools, Experience)  
+- Resume vs Job Matching  
+- Candidate Scoring (0–100)  
+- Explainable AI Output  
+- Modular LangChain Pipeline  
+- LangSmith Tracing  
 
 ##  Installation & Setup
 
