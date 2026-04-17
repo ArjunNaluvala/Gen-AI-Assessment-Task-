@@ -1,4 +1,4 @@
-#  AI Resume Screening System with LangChain & LangSmith
+#  AI Resume Screening System with LangChain + Groq + LangSmith
 
 ##  Project Overview
 This project is an AI-powered Resume Screening System that evaluates candidates based on a given job description.
@@ -15,8 +15,8 @@ It uses LangChain to build a modular pipeline and LangSmith for tracing, debuggi
 - Python
 - LangChain
 - OpenAI API
+- Groq (LLM - LLaMA 3.1)
 - LangSmith (Tracing & Debugging)
-- VS Code
 
 ##  Project Structure
 
@@ -90,8 +90,6 @@ python main.py
 - Score (0–100)  
 - Explanation (Strengths & Weaknesses)  
 
----
-
 ##  LangSmith Tracing
 
 - Tracks each pipeline step  
@@ -100,8 +98,6 @@ python main.py
   - Strong Candidate
   - Average Candidate
   - Weak Candidate  
-
----
 
 ##  Testing
 
@@ -123,10 +119,3 @@ The system is tested with:
 - Prompt engineering techniques  
 - Debugging AI workflows  
 - Using LangSmith for monitoring  
-
-##  Future Improvements
-
-- JSON structured output  
-- UI integration (Streamlit)  
-- Support for PDF resumes  
-- Advanced scoring algorithm   
