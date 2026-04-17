@@ -1,0 +1,7 @@
+langchain>=1.0.0
+langchain-core
+langchain-openai
+langsmith
+openai
+python-dotenv
+tiktoken
